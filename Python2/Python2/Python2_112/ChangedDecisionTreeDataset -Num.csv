@@ -1,0 +1,19 @@
+,CGPA,Communication,Apptitude,Programming Skill,Job Offered
+0,High,Good,High,Good,Yes
+1,Medium,Good,High,Good,Yes
+2,Low,Bad,Low,Good,No
+3,Low,Good,Low,Bad,No
+4,High,Good,High,Bad,Yes
+5,High,Good,High,Good,Yes
+6,Medium,Bad,Low,Bad,No
+7,Medium,Bad,Low,Good,No
+8,High,Bad,High,Good,Yes
+9,Medium,Good,High,Good,Yes
+10,Low,Bad,High,Bad,No
+11,Low,Bad,High,Bad,No
+12,Medium,Good,High,Bad,Yes
+13,Low,Good,Low,Good,No
+14,High,Bad,Low,Bad,No
+15,Medium,Bad,High,Good,No
+16,High,Bad,Low,Bad,No
+17,High,Good,High,Bad,Yes
